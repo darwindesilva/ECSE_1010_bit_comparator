@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+AND, NOT, and XNOR connects inputs A and B to outputs A<B, A=B, and A>B.
 
 ## How to test
 
-Explain how to use your project
+Check all 4 possible input states for A and B and make sure the right LED is lit for each case.
 
 ## External hardware
 
